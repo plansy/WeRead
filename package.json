@@ -1,0 +1,24 @@
+{
+  "name": "weread",
+  "version": "1.0.0",
+  "description": "Social Reading Broadcast For Children",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plansy/WeRead.git"
+  },
+  "author": "Peter erian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plansy/WeRead/issues"
+  },
+  "homepage": "https://github.com/plansy/WeRead#readme",
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "react": "^15.4.0",
+    "webrtc": "^1.14.1"
+  }
+}
