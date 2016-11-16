@@ -1,2 +1,2 @@
 # WeRead
-A Social Reading Network
+A Social Reading Network For Children:
